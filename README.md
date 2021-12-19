@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranger-code <3
 - 👀 I’m interested in ...HTML,CSS,JS,PYTHON,ML
-- 🌱 I’m currently learning ...ML
+- 🌱 I’m currently learning ...Nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
