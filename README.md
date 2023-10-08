@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranger-code <3
-- 👀 I’m interested in ...HTML,CSS,JS,PYTHON,ML
-- 🌱 I’m currently learning ...Nothing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Educated in ...HTML,CSS,JS,PYTHON,JAVA,C++,Reverse Engineering,UI/UX.
+- 🌱 I’m currently learning ...OpenGL
+- 💞️ I’m looking to collaborate on ...Anything Really!
 - 📫 How to reach me ...
 
 <!---
